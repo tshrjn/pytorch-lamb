@@ -4,7 +4,7 @@ import collections
 import math
 
 import torch
-from tensorboardX import SummaryWriter
+from torch.utils.tensorboard import SummaryWriter
 from torch.optim import Optimizer
 
 

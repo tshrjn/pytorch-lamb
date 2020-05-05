@@ -14,7 +14,6 @@ setup(
     install_requires=[
         'torch>=0.4.1',
         'tqdm',
-        'tensorboardX',
         'torchvision',
     ],
 )
